@@ -6,6 +6,8 @@
 
 ### Hola a todos Soy Maykol Rey
 
+https://c7.alamy.com/zoomses/9/9d43b97fd60443d7ac2d6d6cd27245b7/dm5a21.jpg
+
 ![foto](https://c7.alamy.com/zoomses/9/9d43b97fd60443d7ac2d6d6cd27245b7/dm5a21.jpg)
 
 Soy ingeniero electronico, me gusta mucho el audio de alta calidad, actualemente estoy tratando de colocar todo mi esfuezo en eso, diseño PCB de audio, cajas acusticas y cosas asi.
@@ -17,7 +19,7 @@ Todos mis diseños los puedes ver en
 
 Tengo una pequeña comunidad en youtube, ahí explico algunos proyectos mostrados.
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picli3&show_icons=true&locale=en&layout=compact" alt="srishti44-g" /></p>
 
 <!--
 **picli3/picli3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
