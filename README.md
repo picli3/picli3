@@ -1,3 +1,5 @@
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCuCl93NjLSbGbJEF4IzGWRg?style=flat-square">
+
 ### Hola a todos Soy Maykol Rey
 
 Soy ingeniero electronico, me gusta mucho el audio de alta calidad, actualemente estoy tratando de colocar todo mi esfuezo en eso, diseño PCB de audio, cajas acusticas y cosas asi.
@@ -7,7 +9,7 @@ Lo interesante de esto, es que trato de hacerlo todo con sofware libre.
 Todos mis diseños los puedes ver en [](https://maykolrey.com/descargas)
 
 Tengo una pequeña comunidad en youtube, ahí explico algunos proyectos mostrados.
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCuCl93NjLSbGbJEF4IzGWRg?style=flat-square">
+
 
 
 <!--
