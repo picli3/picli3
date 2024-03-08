@@ -6,7 +6,8 @@ Soy ingeniero electronico, me gusta mucho el audio de alta calidad, actualemente
 
 Lo interesante de esto, es que trato de hacerlo todo con sofware libre.
 
-Todos mis diseños los puedes ver en [](https://maykolrey.com/descargas)
+Todos mis diseños los puedes ver en 
+<a href="https://maykolrey.com/descargas">Descargas </a>
 
 Tengo una pequeña comunidad en youtube, ahí explico algunos proyectos mostrados.
 
