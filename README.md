@@ -8,7 +8,7 @@
 
 https://c7.alamy.com/zoomses/9/9d43b97fd60443d7ac2d6d6cd27245b7/dm5a21.jpg
 
-![foto](https://c7.alamy.com/zoomses/9/9d43b97fd60443d7ac2d6d6cd27245b7/dm5a21.jpg)
+![foto](https://res.cloudinary.com/maykolrey/image/upload/v1735050882/tPA3116v1_yerq8g.png)
 
 Soy ingeniero electronico, me gusta mucho el audio de alta calidad, actualemente estoy tratando de colocar todo mi esfuezo en eso, diseño PCB de audio, cajas acusticas y cosas asi.
 
