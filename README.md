@@ -1,33 +1,91 @@
-<a href="https://www.youtube.com/channel/UCuCl93NjLSbGbJEF4IzGWRg?sub_confirmation=1">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCuCl93NjLSbGbJEF4IzGWRg?style=flat-square">
-</a>
+# 👋 Maykol Rey | Ingeniero Electrónico & Maker
 
-### Hola a todos Soy Maykol Rey
+> _Ingeniero electrónico apasionado por construir sistemas que interactúan con el mundo real. Nearly 10 años en Perú, combinando hardware, firmware y creatividad._
 
-![foto](https://res.cloudinary.com/maykolrey/image/upload/v1735050882/tPA3116v1_yerq8g.png)
+📍 **Lima, Perú** | 🔗 [maykolrey.com](https://maykolrey.com) | 📺 [YouTube](https://youtube.com/@maykolrey) | 🐦 [@ReyMaykol](https://twitter.com/ReyMaykol)
 
-Soy ingeniero electronico, me gusta mucho el audio de alta calidad, actualemente estoy tratando de colocar todo mi esfuezo en eso, diseño PCB de audio, cajas acusticas y cosas asi.
+---
 
-Lo interesante de esto, es que trato de hacerlo todo con sofware libre.
+## 🛠️ Stack & Herramientas
 
-Todos mis diseños los puedes ver en 
-<a href="https://maykolrey.com/descargas">Descargas </a>
+### Hardware & Firmware
+[![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif)](https://www.espressif.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
+[![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000000?style=flat-square&logo=freertos)
+[![PCB Design](https://img.shields.io/badge/-PCB%20Design-0078D4?style=flat-square&logo=kicad)
 
-Tengo una pequeña comunidad en youtube, ahí explico algunos proyectos mostrados.
+### Software & Protocolos
+[![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+[![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=picli3&show_icons=true&locale=en&layout=compact" alt="srishti44-g" /></p>
+### Áreas de Especialidad
+- **IoT Industrial** — Protocolos, sensores, gateways
+- **Sistemas Embebidos** — ESP32, FreeRTOS, bajo consumo
+- **Diseño de PCBs** — KiCad, esquemáticos, routing
+- **Automatización** — PLCs, control de procesos, SCADA
+- **Contenido Técnico** — YouTube, tutoriales, documentación
 
-<!--
-**picli3/picli3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔌 IoT & Embebidos
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [e-tracker](https://github.com/picli3/e-tracker) | Sistema de tracking IoT | ESP32, MQTT, sensores |
+| [kimi-rate](https://github.com/picli3/kimi-rate) | Sistema de rating con ESP32 | C, ESP-IDF |
+| [touch-lamp](https://github.com/picli3/touch-lamp) | Lámpara táctil inteligente | ESP32, sensores |
+| [esp32_display_addon](https://github.com/picli3/esp32_display_addon) | Addon display para ESP32 | HTML, embedded |
+
+### ⚡ Electrónica & Control
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [control-bomba-combustible](https://github.com/picli3/control-bomba-combustible) | Control de bomba industrial | Embedded, sensores |
+| [G4PB4](https://github.com/picli3/G4PB4) | Módulo para G4 de Opto 22 | Hardware custom |
+| [low-pass-filter-lr4](https://github.com/picli3/low-pass-filter-lr4) | Filtro pasa-bajas LR4 | Electrónica análoga |
+| [filtro-pasa-bajas-2do-orden-pasivo](https://github.com/picli3/filtro-pasa-bajas-2do-orden-pasivo) | Filtro pasivo 2do orden | Electrónica |
+
+### 🔧 Herramientas & Utilidades
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [pinion-tools](https://github.com/picli3/pinion-tools) | Herramientas para piñones | Python |
+| [step-viewer](https://github.com/picli3/step-viewer) | Visor de archivos STEP | Python |
+| [hub-usb-2](https://github.com/picli3/hub-usb-2) | Hub USB 2.0 | Hardware, firmware |
+| [rgb-hover](https://github.com/picli3/rgb-hover) | Efecto RGB hover | Embedded |
+
+---
+
+## 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=picli3&theme=transparent&hide_border=true&title_color=00D4FF&text_color=CCCCCC" alt="Maykol's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picli3&theme=transparent&hide_border=true&title_color=00D4FF&text_color=CCCCCC&layout=compact" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🎯 Enfoque
+
+> **"Construyo sistemas que funcionan en el mundo real — no solo en el simulador."**
+
+- Prefiero **ESP-IDF** sobre Arduino para producción
+- Diseño con KiCad y entiendo el ciclo completo: esquemático → layout → fabricación → ensamblaje
+- Protocolos industriales: MQTT, Modbus, serial RS485
+- Automatización con enfoque en **fiabilidad y mantenibilidad**
+- Contenido técnico para YouTube: diseño de PCBs, embebidos, IoT
+
+---
+
+## 📬 Contacto
+
+- 🌐 [maykolrey.com](https://maykolrey.com)
+- 📧 admin@maykolrey.com
+- 💬 [@ReyMaykol](https://twitter.com/ReyMaykol)
+
+---
+
+_Última actualización: 2026_
