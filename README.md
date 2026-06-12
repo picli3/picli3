@@ -10,7 +10,6 @@
 
 ### Hardware & Firmware
 [![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif)](https://www.espressif.com/)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi)
 [![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000000?style=flat-square&logo=freertos)
 [![PCB Design](https://img.shields.io/badge/-PCB%20Design-0078D4?style=flat-square&logo=kicad)
